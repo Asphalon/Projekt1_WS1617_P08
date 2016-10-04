@@ -1,0 +1,36 @@
+==========================================================
+=== Erste Erstellung der Projektidee, v_01, 2016-10-04 ===
+==========================================================
+
+-Projektidee: Spiel Machtergreifung 2021
+
+-Politische Simulation innerhalb Deutschlands
+
+-Ziel des Spiels: Politische Machtergreifung im Demokratischen System --> Bundeskanzler
+
+-Der Spieler erstellt sich eine Spielfigur (per Login), die er einer der implementierten Parteien zuordnet. Diese Figur muss sich durch geschicktes politisches Agieren parteiintern und parteiextern einen Namen machen und so seine Bekanntheit (Schlüsselfunktion) steigern. 
+
+-Die Spielfigur:
+	Geschlecht		
+	polit. Ansichten	(alle 3 aus einer Liste auswählbar)
+	Wertegefühl
+
+-Die Bekanntheit übernimmt in diesem Spiel die Rolle klassischer Erfahrungspunkte, wie viele Spiele sie haben. 
+
+-Mit höherer Bekanntheit steigt man in der eigenen Partei auf und erhält Zugang zu davor unzugänglichen Aktionen und Ressourcen.
+
+-3 Ressourcen:
+	-Geld
+	-Beliebtheit
+	-Persönlichkeit
+
+-Geld:
+	Hauptressource, zur Förderung von eventueller Kampagnen etc.
+
+-Beliebtheit:
+	Zufriedenheit der Bevölkerung mit den Entscheidungen der Figur
+
+-Persönlichkeit:
+	Übereinstimmung der Aktionen der Figur mit den persönlichen Werten und den Werten 		der Partei
+
+
