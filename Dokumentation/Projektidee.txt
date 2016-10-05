@@ -31,6 +31,30 @@
 	Zufriedenheit der Bevölkerung mit den Entscheidungen der Figur
 
 -Persönlichkeit:
-	Übereinstimmung der Aktionen der Figur mit den persönlichen Werten und den Werten 		der Partei
+	Übereinstimmung der Aktionen der Figur mit den persönlichen Werten und den Werten der Partei
+
+====================================================
+=== Erweiterung der Projektidee, v_02, 2016-10-06===
+====================================================
+
+-Aufbau des Spiels:
+	-Eine Spielrunde entspircht einem Monat, Beginn des Spiels ist der aktuelle Monat des Spielenden
+	-Maximaldauer: 96 Runden entsprechend 8 Jahre
+	-Falls nicht gewählt: VERLOREN
+	-Falls gewählt, auch vor Maximaldauer: GEWONNEN
+	-Rundendauer in Echtzeit: max. 3 Minuten
+
+-Struktureller Aufbau des Spiels:
+	mehrere Teilfenster:
+		Umfragewerte
+		Charakterfenster
+		Parteifenster
+		Reitermenü mit Aktionen
+		Kalender bzw. Timer bis zur nächsten wichtigen Veranstaltung oä
+
+
+-Randparameter:
+	Keine Rechtsextremen Parteien werden implementiert
+	Keine "politisch inkorrekten" Handlungen möglich (Volksverhetzung, Genozide etc pp)
 
 
