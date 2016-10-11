@@ -57,4 +57,18 @@
 	Keine Rechtsextremen Parteien werden implementiert
 	Keine "politisch inkorrekten" Handlungen möglich (Volksverhetzung, Genozide etc pp)
 
+===================================
+=== Feedback Alpers, 2016-10-11 ===
+===================================
 
+=== 1.) Inhaltliches 
+
+1.1.) Sehr gut notiert; basierend darauf lassen sich gut erste strukturelle Elemente und vielleicht auch schon eine Gruppe erstellen.
+
+1.2.) Achten Sie bitte darauf, klar zwischen Regeln und Komponenten des Spiels zu trennen. Die Regeln können wir erst später umsetzen und wenn bei einem umfangreichen Entwurf nicht leicht zwischen Regeln und Komponenten unterschieden werden kann, wird es schwierig, effizient zu arbeiten.
+
+1.3.) Schlecht ist, dass Sie hier bereits auf den strukturellen Aufbau eingehen. Wenn Sie gut arbeiten, entwickeln Sie die Struktur erst nach und nach.
+
+=== 2.) Wertung
+
+Da Sie bislang nur wenig definiert haben, was auf den Spielablauf verweist, zurzeit nur 2 Punkte.
